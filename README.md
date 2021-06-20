@@ -1,6 +1,11 @@
 # sell_it
 
-A new Flutter project.
+A Mobile app for selling things online.
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1omotFwhHi16Ymu2hZCR9nzSpnGDU9iZT" height="450em" title="hover text"> &nbsp
+  <img src="https://drive.google.com/uc?export=view&id=18_VTAIh5GcOULx0K8L_TJefhism4opde" height="450em" title="hover text">  
+</p>
 
 ## Getting Started
 
